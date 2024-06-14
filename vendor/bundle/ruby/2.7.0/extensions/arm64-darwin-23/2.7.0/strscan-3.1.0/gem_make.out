@@ -1,0 +1,18 @@
+current directory: /Users/indianrenters/Documents/react-native/app1/vendor/bundle/ruby/2.7.0/gems/strscan-3.1.0/ext/strscan
+/Users/indianrenters/.rbenv/versions/2.7.5/bin/ruby -I /Users/indianrenters/.rbenv/versions/2.7.5/lib/ruby/2.7.0 -r ./siteconf20240613-52247-449aj7.rb extconf.rb
+checking for onig_region_memsize() in ruby.h... yes
+checking for rb_reg_onig_match() in ruby.h... no
+creating Makefile
+
+current directory: /Users/indianrenters/Documents/react-native/app1/vendor/bundle/ruby/2.7.0/gems/strscan-3.1.0/ext/strscan
+make "DESTDIR=" clean
+
+current directory: /Users/indianrenters/Documents/react-native/app1/vendor/bundle/ruby/2.7.0/gems/strscan-3.1.0/ext/strscan
+make "DESTDIR="
+compiling strscan.c
+linking shared-object strscan.bundle
+ld: warning: -multiply_defined is obsolete
+
+current directory: /Users/indianrenters/Documents/react-native/app1/vendor/bundle/ruby/2.7.0/gems/strscan-3.1.0/ext/strscan
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 strscan.bundle ./.gem.20240613-52247-zqhceu
